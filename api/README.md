@@ -1,0 +1,1 @@
+ return the status of your AP
